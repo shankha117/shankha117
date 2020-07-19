@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"><img src="https://i.ibb.co/QXNHKPW/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0"></h1>
 
-<!--
-**shankha117/shankha117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Shankha-blue?style=plastic&logo=Linkedin&logoColor=white&link='https://in.linkedin.com/in/shankha-shuvro-sinha-307ab7100?trk=profile-badge')](https://www.linkedin.com/in/shankha-shuvro-sinha-307ab7100/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Gail Badge](https://img.shields.io/badge/-shankha.shuvro@hotmail.com-0099ff?style=plastic&logo=Microsoft&logoColor=white&link=mailto:shankha.shubro@hotmail.com)](mailto:shankha.shubro@hotmail.com) 
+
+
+
+* :rocket:  I love to work on fast,scaleable,distributed Projects
+* :green_heart:  Python is Love
+* :zap:  Tech I have worked on - Flask,Falcon,Mysql,Mongo,ElasticSearch,Kafka,Redis,Celery,Docker,Django
+* 👯  I would love to collaborate .. 
+* 🎨  I love to paint with charcole and use Vue.js to make cool UI for whatever small app I make sometimes :P
+
