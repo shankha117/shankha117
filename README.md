@@ -6,9 +6,9 @@
 
 
 
-* :rocket:  I love to work on fast,scaleable,distributed Projects
+* :rocket:  I love to work on fast,scalable,distributed Projects
 * :green_heart:  Python is Love
-* :zap:  Tech I have worked on - Flask,Falcon,Mysql,Mongo,ElasticSearch,Kafka,Redis,Celery,Docker,Django
+* :zap:  Tech I have worked on - Flask,Falcon,Mysql,MongoDB,ElasticSearch,Kafka,Redis,Celery,Docker,Django
 * 👯  I would love to collaborate .. 
-* 🎨  I love to paint with charcole and use Vue.js to make cool UI for whatever small app I make sometimes :P
+* 🎨  I love to paint with charcole and use Vue.js to make cool UI for whatever weekend app I make sometimes :P
 
