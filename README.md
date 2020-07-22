@@ -11,5 +11,5 @@
 * :zap:  Tech I have worked on - Flask,Falcon,Mysql,MongoDB,ElasticSearch,Kafka,Redis,Celery,Docker,Django
 * 👯  I would love to collaborate .. 
 * 🎨  I love to paint with charcole and use Vue.js to make cool UI for whatever weekend app I make sometimes :P
-* :nerd_face:  traing at DSA gym these days  
+* :nerd_face:  Improving my Problem Solving and DSA skills for optimization these days   
 
