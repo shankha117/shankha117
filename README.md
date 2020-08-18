@@ -7,9 +7,9 @@
 
 
 * :rocket:  I love to work on fast,scalable,distributed Projects
-* :green_heart:  Python is Love
-* :zap:  Tech I have worked on - Flask,Falcon,Mysql,MongoDB,ElasticSearch,Kafka,Redis,Celery,Docker,Django
-* 👯  I would love to collaborate .. 
+* :green_heart:  Software Engineering with Python .
+* :zap:  Tech I have worked on - Flask,Falcon,Mysql,MongoDB,ElasticSearch,Kafka,Redis,Celery,Docker,Django . 
+* 👯  I would love to collaborate on any backend projects . Good if Python, awesome if some  other language.. 
 * 🎨  I love to paint with charcole and use Vue.js to make cool UI for whatever weekend app I make sometimes :P
-* :nerd_face:  Improving my Problem Solving and DSA skills for optimization these days   
+* :nerd_face:  Improving my Problem Solving and DSA skills for optimization.
 
