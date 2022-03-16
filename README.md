@@ -4,6 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shankha-blue?style=plastic&logo=Linkedin&logoColor=white&link='https://in.linkedin.com/in/shankha-shuvro-sinha-307ab7100?trk=profile-badge')](https://www.linkedin.com/in/shankha-shuvro-sinha-307ab7100/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Gail Badge](https://img.shields.io/badge/-shankha.shuvro@hotmail.com-0099ff?style=plastic&logo=Microsoft&logoColor=white&link=mailto:shankha.shubro@hotmail.com)](mailto:shankha.shubro@hotmail.com) 
 
+### My badge
+
+[![LeetCode user shankha](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)](https://leetcode.com/shankha117/)
 
 
 * :rocket:  I love to work on fast,scalable,distributed Projects
